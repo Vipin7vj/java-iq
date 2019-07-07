@@ -1,0 +1,17 @@
+13:44:36.279 [HikariPool-1 housekeeper] WARN  c.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17h42m55s710ms596µs800ns).
+13:44:59.637 [http-nio-8081-exec-2] ERROR c.i.s.JwtAuthenticationFilter - couldn't find bearer string, will ignore the header
+13:44:59.733 [http-nio-8081-exec-2] INFO  c.i.controller.AuthController - username vipin ann password is 
+13:44:59.755 [http-nio-8081-exec-2] INFO  c.i.service.impl.UserServiceImpl - in load user by name:: vipin
+13:44:59.988 [http-nio-8081-exec-2] DEBUG o.s.b.a.a.listener.AuditListener - AuditEvent [timestamp=2019-07-07T08:14:59.988Z, principal=vipin, type=AUTHENTICATION_SUCCESS, data=AuditEvent [timestamp=2019-07-07T08:14:59.988Z, principal=vipin, type=AUTHENTICATION_SUCCESS, data={}]]
+13:45:00.513 [http-nio-8081-exec-4] INFO  c.i.service.impl.UserServiceImpl - in load user by name:: vipin
+13:45:32.976 [http-nio-8081-exec-5] INFO  c.i.service.impl.UserServiceImpl - in load user by name:: vipin
+13:45:32.987 [http-nio-8081-exec-5] INFO  c.i.controller.AuthController - username vipin ann password is 
+13:45:32.987 [http-nio-8081-exec-5] INFO  c.i.service.impl.UserServiceImpl - in load user by name:: vipin
+13:45:33.076 [http-nio-8081-exec-5] DEBUG o.s.b.a.a.listener.AuditListener - AuditEvent [timestamp=2019-07-07T08:15:33.076Z, principal=vipin, type=AUTHENTICATION_SUCCESS, data=AuditEvent [timestamp=2019-07-07T08:15:33.076Z, principal=vipin, type=AUTHENTICATION_SUCCESS, data={}]]
+13:45:33.108 [http-nio-8081-exec-6] INFO  c.i.service.impl.UserServiceImpl - in load user by name:: vipin
+13:45:39.269 [http-nio-8081-exec-8] INFO  c.i.service.impl.UserServiceImpl - in load user by name:: vipin
+13:46:21.732 [http-nio-8081-exec-9] INFO  c.i.service.impl.UserServiceImpl - in load user by name:: vipin
+13:46:36.182 [http-nio-8081-exec-1] INFO  c.i.service.impl.UserServiceImpl - in load user by name:: vipin
+15:56:59.771 [HikariPool-1 housekeeper] WARN  c.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h35m23s238ms478µs899ns).
+16:41:05.293 [HikariPool-1 housekeeper] WARN  c.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m5s449ms592µs500ns).
+16:45:00.122 [HikariPool-1 housekeeper] WARN  c.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m24s834ms678µs600ns).
